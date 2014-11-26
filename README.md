@@ -1,4 +1,4 @@
-sliadesharephplib
+slidesharephplib
 =================
 
 SlideShare API PHP Wrapper Library
