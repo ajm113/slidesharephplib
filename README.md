@@ -4,8 +4,9 @@ sliadesharephplib
 SlideShare API PHP Wrapper Library
 
 INSTALL
-1. Clone / Download Library (extrac).
 
+
+1. Clone / Download Library (extrac).
 
 2. Open "slidesharelib.php" and enter your API key and secret in the marked variables!
 
