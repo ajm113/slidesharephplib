@@ -13,3 +13,5 @@ INSTALL
 3. Include/require "slidesharelib.php" into your code:
 
 4. Read the SlideShare API Doc and index.php for reference!
+
+5. Enjoy!
